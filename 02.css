@@ -1,0 +1,41 @@
+ /* *{
+ font-size: 70px;
+   background: #000;
+}
+ body{
+  color: aliceblue;
+  font-size: 20px;
+  background: #000;
+ }
+#git h3{
+ color: #000;
+ font-size: 20px;
+}
+.git{
+ color: yellow;
+ font-size: 30px;
+ background: #f8efef;
+}
+
+#git{
+ color: rgb(190, 190, 106);
+ font-size: 30px;
+} */
+
+
+/* hex color  1 to 9 and A(11) to F(15) #FF000 means red 30% and 0000 is black color */
+
+/* px is absolute and percent is relative */
+
+.first{
+ width: 200px;
+ height: 200px;
+ background: yellow;
+}
+.second{
+ width: 120px;
+ height: 50%;
+ background:rgb(105, 105, 63) ;
+}
+
+ 
